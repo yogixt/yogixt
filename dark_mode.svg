@@ -13,34 +13,58 @@ size-adjust: 109%;
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
+.ascii {font-size: 7.2px;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">*+=-:.</tspan>
-<tspan x="15" y="50">.</tspan>
-<tspan x="15" y="70">                  .,,:-:::,.</tspan>
-<tspan x="15" y="90">               .,-*%@@@@@%%#+-.</tspan>
-<tspan x="15" y="110">             .=*+=%@@@@@@@@%=*+.</tspan>
-<tspan x="15" y="130">            ,#@%%%@@@@@@@@@@%**.</tspan>
-<tspan x="15" y="150">           ,%@%*%@@@@#+--*@@@@,.</tspan>
-<tspan x="15" y="170">          .*@@#%@@###*+:,,=@@@=</tspan>
-<tspan x="15" y="190">          -@@%#@@@#=#%%*=:=%@@%, ... ..</tspan>
-<tspan x="15" y="210">         ,#@@@%###-.+*+=:,-%@@@*........</tspan>
-<tspan x="15" y="230">       ..+%@@*:,::..,::...,#@@@%, ......</tspan>
-<tspan x="15" y="250">       ..#@@@+,=-:-=-,-=,,,*@@%%: .....  .</tspan>
-<tspan x="15" y="270">        ,%@@@#:-+=-::-+=,,:#@@%%=.  .... .</tspan>
-<tspan x="15" y="290">       .:%@@@@+,.,,,,. .,-+@@@@#+:.......</tspan>
-<tspan x="15" y="310">      ..,*@%@@@#-.   .,=+*@@@@@%**+--:,..</tspan>
-<tspan x="15" y="330">        .-#%@@@@@*++*#%###@@@@@@@@%*=,....</tspan>
-<tspan x="15" y="350">      .,:*#%@@@@@@#**##%@@@@@@@@@@@@%#+,..</tspan>
-<tspan x="15" y="370">     ,=*++%%@@@@@@@@@@@@@@@@@@@@@%%@%@@%=.</tspan>
-<tspan x="15" y="390">    -#*+-=%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*</tspan>
-<tspan x="15" y="410">   -@%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="430">  :%%@@%@@@@@%@@%%%%%@@%%@@@@@%%%%%%%%%@@@</tspan>
+<text x="15" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="34.0">,............ .   .                               .          .</tspan>
+<tspan x="15" y="42.29">.......... ..     . .                 ...................... ..</tspan>
+<tspan x="15" y="50.59">..... ... ......    .             ....                 ...........</tspan>
+<tspan x="15" y="58.88">.... ....  ...     ..          ..     .-tjxvzUUYYzvzur+:.  ..,.......</tspan>
+<tspan x="15" y="67.18">......  .. .      ...        .   .:tuUOqkhhao*%@@#pmqhbqZLv=:  .........</tspan>
+<tspan x="15" y="75.47">...... ..  ..    ....      .. .fxvUOwpdbkkkbbdbka*@kbkppapkdLv= ..... ....</tspan>
+<tspan x="15" y="83.76">............ ...  ...     .  rUXnvXLLOda***###o**#*%%#hhh0xC%dmx,,.........</tspan>
+<tspan x="15" y="92.06">.......... . .. .....   .. =LqOCUnxrXpo%@@%%#****#*#%@@%#mxrOmpd+,........</tspan>
+<tspan x="15" y="100.35">............ ........  .  nwdbohdbpmh#*aahaooooooahhaao%%#Zruv0*u.,........</tspan>
+<tspan x="15" y="108.65">,,.......... ......,. . ,Cdpkakkhkdbhhdbbh***#%##**#%%%#%@%hwcdkU-:...... .</tspan>
+<tspan x="15" y="116.94">,,................,,,. :mkqbbOCLZwqpdba##oaaoakkbb#@###**###hwmzv,.,.......</tspan>
+<tspan x="15" y="125.23">,.................,,,..Ohqhkdw00qbbho##ahbkkddwCXzzOko#*#%%#*ozf:,,,,.....</tspan>
+<tspan x="15" y="133.53">,.................... Uadahpmm0mbha#*hddbbpmLzr==++fzOo%**@@#hw:,,,,,.. ...</tspan>
+<tspan x="15" y="141.82">...........        . xbpbaohdpqbaakdqpddpqZJXzuxrt-+fjvd*a*@@bkc,,,,,...     ..</tspan>
+<tspan x="15" y="150.12">                  ..:wdda*bqqqk***akpwZ0QOqbdqOLYcvnjrnJd#o#%@hmt-::,:,,,::,,.......</tspan>
+<tspan x="15" y="158.41">                  . Ubpo*kpw0OqbhhhkZJXzXQZQO0CzucvxnuxYm#oa#@%ku=:::-------:::,,...</tspan>
+<tspan x="15" y="166.7">               . . fpb**hpqOwbkkahdpbqJzCwwhpdkd00QzxzUCw#*h*%@#0f=--::---------:,..</tspan>
+<tspan x="15" y="175.0">                ..:Qkakdho#@@oqa*bkdhqxrcOd*wwakOLzvxnYLq%%ho##%oYf=::----:::-----,,</tspan>
+<tspan x="15" y="183.29">             .... vbbph*h@%oahbkbqwwwn:-uOQLwm0LUznrtunc0#%*#o##%wnt:------------=:,</tspan>
+<tspan x="15" y="191.59">          .   .. +wbpd%@hahmLCJXcvnUc,. .jUf::===+-,=x=nL#%o@oo*aoXf---=======---=-:</tspan>
+<tspan x="15" y="199.88">        .....,,,:Lhdqk@@@b0vf-::=fxc-     -xcxtfffftt,=rU*%h##hoab0r=:-========----,</tspan>
+<tspan x="15" y="208.17">    .. .....,=t+nphdw*@@@pzxrrnzQQf--. ,-tf+COct+-:, ,trYo%ba%odapZx==:------==---:,</tspan>
+<tspan x="15" y="216.47">.. .........  . nhkpb%@@@mvj++jJYxuJCczJOLXj=fvcf===+fxnUk#kk@*dqppc,=::------==:,,,</tspan>
+<tspan x="15" y="224.76">.....  .......,.Xkqba@@@@kJvxnCUf+frxvzzvf-:,=nL0YcnnnxxXb@*d%#dwpbU:,-::------=-:::</tspan>
+<tspan x="15" y="233.06">.     .........,0bpho%@@@*LXzUmOmmCzLUYUJUJUQObbQzurrrjrYk@@h*@kOpbUt-.:::----=+++-:</tspan>
+<tspan x="15" y="241.35">..  . ........ =Zdda#%@@@@OvnjjvUqJfQtf+ffj+UJUct==+ffjvLo@@@#@a0qdQ+t-.,:::-=+++++-</tspan>
+<tspan x="15" y="249.64">.... .........,j0bbo%@@@@@oXnjtt-:uUXnrjxnnj-..,-=frrrvJq@@@@#oaOmpOY=+t-,,:======+=</tspan>
+<tspan x="15" y="257.94">............,:=n0hd*%%%#@@@hYvnf+=-+jxxxxj=,..,,=jnnuzLmo@@@@@oaZmd0UXf:tt+-====-===</tspan>
+<tspan x="15" y="266.23">...........,:=tnJkd*%a*##@@@*0zur==:.,:,..  ..,-rvvcJOwk%@@@@@o*ZpbUCJLct=t++tt+xf+=</tspan>
+<tspan x="15" y="274.53">............,=:vx0baowh@*%@@@@bLUx:,.        .fcUJLZwqd*@@@@@#%hwbkOYUQmOXcnxuznuj+=</tspan>
+<tspan x="15" y="282.82">,...........:..cfxp*bQb@*#@@@@@%d0v-,,,,,.,:+Xmqqqpqmmb%%@@@%%%aoahabwpbqQUJZmXrf+-=</tspan>
+<tspan x="15" y="291.11">............  ,xjnZboqd#%%%#%@@@@#bm0LLLQ0mph*akbpZLQmh@@@@%%@@@%%%###abdpZLUr-=====</tspan>
+<tspan x="15" y="299.41">..............,tfUqXZkho@@@@%%@@@@hmwqpbhaaakpm0LCQqo@@@@@@#@@@@%#%ohkdpqw0Xnt-::=++</tspan>
+<tspan x="15" y="307.7">,...........   -jJpwLma*%@@@@#@@@@#wJYYXzXYXYYCOdo@@@#%@@@%%@@@@@@@@@%@@@@@@%*d0v+-+</tspan>
+<tspan x="15" y="316.0">,.........  =xzUOqddmwqo#@@@@@%@@@@@opZ00Ompko@@@@@@#%@@@@@#@@@@%bwk**oahohh*##*obUt</tspan>
+<tspan x="15" y="324.29">,........ +JmZQLQZqdQ0h#o@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@aOmbdk##addbZZk*bwpk###%@h</tspan>
+<tspan x="15" y="332.58">,...... .nCmZ0QQYvOabhoah@%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@oa%%*adpphhdo@appb*ohhakkkba</tspan>
+<tspan x="15" y="340.88">,.,... =0qUJJvjfxcCbkahbh**@@@@@@@@@@@@@@@@@@@@@@@@@@%**ppdh%@@@%%@@#hbdpdpddbkkhaaa</tspan>
+<tspan x="15" y="349.17">,,,,. xOwdZmQCUYUQQmkpqdbo@@@@@@@@@@@@@@@@@@@@@@@@@@#ao@@@@@@@%#@@%*o*#*ahhhkkbbddpd</tspan>
+<tspan x="15" y="357.47">:,,, vdk0pkUmmZQJ0ppZqb#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oookaZb%%%@@@@@@@@@@@@@@@%*</tspan>
+<tspan x="15" y="365.76">::: zhh*o0bqZa#*%%oh*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@hZaab*a%@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="15" y="374.05">:: nqpk#@*Opk%%mb%@@@@@%##bph#@@@@@@@@@@@@@@@@@@@@aZd*ok*#awh#%@ohdqqqwwqqqdkha*#@@@</tspan>
+<tspan x="15" y="382.35">-.tbdpqmd%#mmm#wkoakkbko%#h**hddbbkkkkhhaaooaaakbbao%%kOa#oka#abdddpbkhhaahbbppqwwba</tspan>
+<tspan x="15" y="390.64">:,Zqmdaokh@@*ha*@@@#*oaaad0Ok%#okdpwwwmZmmmwwpdkpmh**o*%@@@haqqppqwmwZZmmqdkha*##adw</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">bijay@yogixt</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30">bijoy@yogixt</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">28 years, 8 months, 16 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Unotag</tspan>
@@ -56,7 +80,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">bijay.official8@gmail.com</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">yogixt</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">bijay-official8</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">bijoy-laxmi-biswas-cse07</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">36</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">38</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">3</tspan>
 <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................... </tspan><tspan class="value" id="commit_data">96</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">1</tspan>
