@@ -18,55 +18,51 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="34.0">,............ .   .                               .          .</tspan>
-<tspan x="15" y="42.29">.......... ..     . .                 ...................... ..</tspan>
-<tspan x="15" y="50.59">..... ... ......    .             ....                 ...........</tspan>
-<tspan x="15" y="58.88">.... ....  ...     ..          ..     .-tjxvzUUYYzvzur+:.  ..,.......</tspan>
-<tspan x="15" y="67.18">......  .. .      ...        .   .:tuUOqkhhao*%@@#pmqhbqZLv=:  .........</tspan>
-<tspan x="15" y="75.47">...... ..  ..    ....      .. .fxvUOwpdbkkkbbdbka*@kbkppapkdLv= ..... ....</tspan>
-<tspan x="15" y="83.76">............ ...  ...     .  rUXnvXLLOda***###o**#*%%#hhh0xC%dmx,,.........</tspan>
-<tspan x="15" y="92.06">.......... . .. .....   .. =LqOCUnxrXpo%@@%%#****#*#%@@%#mxrOmpd+,........</tspan>
-<tspan x="15" y="100.35">............ ........  .  nwdbohdbpmh#*aahaooooooahhaao%%#Zruv0*u.,........</tspan>
-<tspan x="15" y="108.65">,,.......... ......,. . ,Cdpkakkhkdbhhdbbh***#%##**#%%%#%@%hwcdkU-:...... .</tspan>
-<tspan x="15" y="116.94">,,................,,,. :mkqbbOCLZwqpdba##oaaoakkbb#@###**###hwmzv,.,.......</tspan>
-<tspan x="15" y="125.23">,.................,,,..Ohqhkdw00qbbho##ahbkkddwCXzzOko#*#%%#*ozf:,,,,.....</tspan>
-<tspan x="15" y="133.53">,.................... Uadahpmm0mbha#*hddbbpmLzr==++fzOo%**@@#hw:,,,,,.. ...</tspan>
-<tspan x="15" y="141.82">...........        . xbpbaohdpqbaakdqpddpqZJXzuxrt-+fjvd*a*@@bkc,,,,,...     ..</tspan>
-<tspan x="15" y="150.12">                  ..:wdda*bqqqk***akpwZ0QOqbdqOLYcvnjrnJd#o#%@hmt-::,:,,,::,,.......</tspan>
-<tspan x="15" y="158.41">                  . Ubpo*kpw0OqbhhhkZJXzXQZQO0CzucvxnuxYm#oa#@%ku=:::-------:::,,...</tspan>
-<tspan x="15" y="166.7">               . . fpb**hpqOwbkkahdpbqJzCwwhpdkd00QzxzUCw#*h*%@#0f=--::---------:,..</tspan>
-<tspan x="15" y="175.0">                ..:Qkakdho#@@oqa*bkdhqxrcOd*wwakOLzvxnYLq%%ho##%oYf=::----:::-----,,</tspan>
-<tspan x="15" y="183.29">             .... vbbph*h@%oahbkbqwwwn:-uOQLwm0LUznrtunc0#%*#o##%wnt:------------=:,</tspan>
-<tspan x="15" y="191.59">          .   .. +wbpd%@hahmLCJXcvnUc,. .jUf::===+-,=x=nL#%o@oo*aoXf---=======---=-:</tspan>
-<tspan x="15" y="199.88">        .....,,,:Lhdqk@@@b0vf-::=fxc-     -xcxtfffftt,=rU*%h##hoab0r=:-========----,</tspan>
-<tspan x="15" y="208.17">    .. .....,=t+nphdw*@@@pzxrrnzQQf--. ,-tf+COct+-:, ,trYo%ba%odapZx==:------==---:,</tspan>
-<tspan x="15" y="216.47">.. .........  . nhkpb%@@@mvj++jJYxuJCczJOLXj=fvcf===+fxnUk#kk@*dqppc,=::------==:,,,</tspan>
-<tspan x="15" y="224.76">.....  .......,.Xkqba@@@@kJvxnCUf+frxvzzvf-:,=nL0YcnnnxxXb@*d%#dwpbU:,-::------=-:::</tspan>
-<tspan x="15" y="233.06">.     .........,0bpho%@@@*LXzUmOmmCzLUYUJUJUQObbQzurrrjrYk@@h*@kOpbUt-.:::----=+++-:</tspan>
-<tspan x="15" y="241.35">..  . ........ =Zdda#%@@@@OvnjjvUqJfQtf+ffj+UJUct==+ffjvLo@@@#@a0qdQ+t-.,:::-=+++++-</tspan>
-<tspan x="15" y="249.64">.... .........,j0bbo%@@@@@oXnjtt-:uUXnrjxnnj-..,-=frrrvJq@@@@#oaOmpOY=+t-,,:======+=</tspan>
-<tspan x="15" y="257.94">............,:=n0hd*%%%#@@@hYvnf+=-+jxxxxj=,..,,=jnnuzLmo@@@@@oaZmd0UXf:tt+-====-===</tspan>
-<tspan x="15" y="266.23">...........,:=tnJkd*%a*##@@@*0zur==:.,:,..  ..,-rvvcJOwk%@@@@@o*ZpbUCJLct=t++tt+xf+=</tspan>
-<tspan x="15" y="274.53">............,=:vx0baowh@*%@@@@bLUx:,.        .fcUJLZwqd*@@@@@#%hwbkOYUQmOXcnxuznuj+=</tspan>
-<tspan x="15" y="282.82">,...........:..cfxp*bQb@*#@@@@@%d0v-,,,,,.,:+Xmqqqpqmmb%%@@@%%%aoahabwpbqQUJZmXrf+-=</tspan>
-<tspan x="15" y="291.11">............  ,xjnZboqd#%%%#%@@@@#bm0LLLQ0mph*akbpZLQmh@@@@%%@@@%%%###abdpZLUr-=====</tspan>
-<tspan x="15" y="299.41">..............,tfUqXZkho@@@@%%@@@@hmwqpbhaaakpm0LCQqo@@@@@@#@@@@%#%ohkdpqw0Xnt-::=++</tspan>
-<tspan x="15" y="307.7">,...........   -jJpwLma*%@@@@#@@@@#wJYYXzXYXYYCOdo@@@#%@@@%%@@@@@@@@@%@@@@@@%*d0v+-+</tspan>
-<tspan x="15" y="316.0">,.........  =xzUOqddmwqo#@@@@@%@@@@@opZ00Ompko@@@@@@#%@@@@@#@@@@%bwk**oahohh*##*obUt</tspan>
-<tspan x="15" y="324.29">,........ +JmZQLQZqdQ0h#o@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@aOmbdk##addbZZk*bwpk###%@h</tspan>
-<tspan x="15" y="332.58">,...... .nCmZ0QQYvOabhoah@%#@@@@@@@@@@@@@@@@@@@@@@@@@@@@oa%%*adpphhdo@appb*ohhakkkba</tspan>
-<tspan x="15" y="340.88">,.,... =0qUJJvjfxcCbkahbh**@@@@@@@@@@@@@@@@@@@@@@@@@@%**ppdh%@@@%%@@#hbdpdpddbkkhaaa</tspan>
-<tspan x="15" y="349.17">,,,,. xOwdZmQCUYUQQmkpqdbo@@@@@@@@@@@@@@@@@@@@@@@@@@#ao@@@@@@@%#@@%*o*#*ahhhkkbbddpd</tspan>
-<tspan x="15" y="357.47">:,,, vdk0pkUmmZQJ0ppZqb#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@oookaZb%%%@@@@@@@@@@@@@@@%*</tspan>
-<tspan x="15" y="365.76">::: zhh*o0bqZa#*%%oh*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@hZaab*a%@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="15" y="374.05">:: nqpk#@*Opk%%mb%@@@@@%##bph#@@@@@@@@@@@@@@@@@@@@aZd*ok*#awh#%@ohdqqqwwqqqdkha*#@@@</tspan>
-<tspan x="15" y="382.35">-.tbdpqmd%#mmm#wkoakkbko%#h**hddbbkkkkhhaaooaaakbbao%%kOa#oka#abdddpbkhhaahbbppqwwba</tspan>
-<tspan x="15" y="390.64">:,Zqmdaokh@@*ha*@@@#*oaaad0Ok%#okdpwwwmZmmmwwpdkpmh**o*%@@@haqqppqwmwZZmmqdkha*##adw</tspan>
+<tspan x="15" y="34.0"/>
+<tspan x="15" y="42.29">                                           XXUUYXYCCXc</tspan>
+<tspan x="15" y="50.59">                                       mwOQJXXzzvxxUXJUUYC</tspan>
+<tspan x="15" y="58.88">                                    Up%%kwYxxxrxnxrttnuZquJX</tspan>
+<tspan x="15" y="67.18">                                   LJXC0wJxnnxxnnnuurffXoqJY</tspan>
+<tspan x="15" y="75.47">                                 cQYcYXXXcXzcunxxxxjrxrtnOQLY</tspan>
+<tspan x="15" y="83.76">                                cJXzLZQUYcnnvccXQm0zxrxrjxCw</tspan>
+<tspan x="15" y="92.06">                                JXvYCLYcuuzYYCmh%@@@qcrx=jJ</tspan>
+<tspan x="15" y="100.35">                               LUvuYUznuXCCQ0Q0Zqka#@*Yur+vU</tspan>
+<tspan x="15" y="108.65">                              CJvuUQLXcvzQpkmQLLwdphh*Zxvj=U</tspan>
+<tspan x="15" y="116.94">                              LvczcxncxcYcqaQXccuLw*awQjunjrU</tspan>
+<tspan x="15" y="125.23">                             0XXxxfxcYYQLQ@%ZOwmqh%@aopjrxnjc</tspan>
+<tspan x="15" y="133.53">                            YUJv,jUbo*%%k#@@@h*%@%#*a@hrxruncL</tspan>
+<tspan x="15" y="141.82">                            LcCj:fb#*oqda#@%aadqo##%@@anvnrzzO</tspan>
+<tspan x="15" y="150.12">                            JYzt-fb@@ko@ahhpbo@@ah%@%@ocxvtYJLL</tspan>
+<tspan x="15" y="158.41">                           XCYnt+:0ohZZOhpbbkkq0Uqo%@@ov:ntXLYd</tspan>
+<tspan x="15" y="166.7">                           ZUzxft:c%@@aqdwaakahk*@@@@%qf:frcQUO0</tspan>
+<tspan x="15" y="175.0">                           qXcjjrt-J#@@@%##%#@@@@@@%oqX,:+xcQUQCQ</tspan>
+<tspan x="15" y="183.29">                           qLcncrx+:nq*@@@@@@@@@@ohqQUf::-jcCXZOLY   Cp0</tspan>
+<tspan x="15" y="191.59">                           ZQXv0rxjt,-cq*@@@@@#dQCCL0z+,=ffuvvzYXUOZ0wO</tspan>
+<tspan x="15" y="199.88">                           000YYutfjt:,jL0QCUXccUQZOzj:-ff-+ffxnzYCOU</tspan>
+<tspan x="15" y="208.17">                           ZmJZUn+=+j=:-Xwppqwww0Yx-=++tt-==tfjrrxxnnvv</tspan>
+<tspan x="15" y="216.47">                         CmwLYQLuf=-+t-::fcYzvxt-,,+j++=uurjxXcvXunXurncv</tspan>
+<tspan x="15" y="224.76">                       ZwOmwbJYznxtt=+-:--::::--===+==jnuczYuucxJYuccnunucx</tspan>
+<tspan x="15" y="233.06">                      00wqhkp0czYcrt++-:-++++++==+ttjrxux=-tjtjxuzzzzXXzzvvv</tspan>
+<tspan x="15" y="241.35">                    XLLX00QOQJJUuf-:---=+tt++tt+tt+=ft:fjrzv+tt++ttfjrxxnczz</tspan>
+<tspan x="15" y="249.64">                   YCnrCCXjvfff++=fr=--+tt++ttt+++tnj=rzvcrttjxnnnnxrjfttfxXx</tspan>
+<tspan x="15" y="257.94">                   QYYurUUxUxrnunjzznuuuuvuuunnxxnvvfXctcurvXUJUUXXXXXzzvrfv</tspan>
+<tspan x="15" y="266.23">                  QYYXXx+xnxffxnrrYYvvzXYUYUYYXXXCXrxf++tnczzzzzzXzXXXzccYvu</tspan>
+<tspan x="15" y="274.53">                 Yzrrrrxx=jucff+,+jjnvzYYYYUYXzzvf=+ff=-ffffftt+tfjrxnvXYcYc</tspan>
+<tspan x="15" y="282.82">                 QXzunjt+-ruUcvjrvxft+fjjjrrjffjt--nrrvYYXzXYzcvnxjtttffxUUY</tspan>
+<tspan x="15" y="291.11">                 CYYXXzvxftcXnrxzCJUXvczcuuuucUXnucXnvYYXXYYYUUYYYYXcnrjrrUX</tspan>
+<tspan x="15" y="299.41">                JvuvuuuunxjxffrzQLJJCULCCJCJCCYvvXLn=xjfjxnunucXUXzzzYJYxrcX</tspan>
+<tspan x="15" y="307.7">                Juuxft++=-nf=:=juvXJJCQQCCJJJUXvzzr+uznnuxjttfjjxucYYzvcCcxn</tspan>
+<tspan x="15" y="316.0">                LXYYYXcrf+Xvxuurrjjrnnxuvvnxrf+tfrvcUUUYYJCJXnrfttttjuUYUcu</tspan>
+<tspan x="15" y="324.29">               UUXzccczvnjzzcXUUJYXUCXuuccuuxfrnrjnnvzYUJUYXYUYXvjt+tttYJvz</tspan>
+<tspan x="15" y="332.58">               Cnxrrjffft=tucYJJJYYC0OQ0LLQCUXXCLzvnxrrxucYUUXvucXXcjfrUvvc</tspan>
+<tspan x="15" y="340.88">               Jvccvuxjf=:,=+fuYUXXzzYYYYXzzcuXCLCJCJcxft+++fnzYznxvLcft+rX</tspan>
+<tspan x="15" y="349.17">              LYXXYUYzcvnf-=ft+=+fffjjrrrrxrfrXUUUYXXXYUzxftt++txcUvXv-:fjv</tspan>
+<tspan x="15" y="357.47">             XUcvvccccvuxf+-jxxrft++++=+++==+xxjjrxcCJvuXJYnfttt+=x0n=jtturv</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">bijoy@yogixt</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">28 years, 8 months, 16 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">28 years, 8 months, 17 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Unotag</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Generative AI Developer</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Claude Code</tspan>
